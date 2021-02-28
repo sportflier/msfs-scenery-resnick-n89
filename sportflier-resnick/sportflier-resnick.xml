@@ -1,0 +1,8 @@
+<Project Version="2" Name="sportflier-resnick" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\sportflier-airport-n89-resnick.xml</Package>
+	</Packages>
+</Project>
+

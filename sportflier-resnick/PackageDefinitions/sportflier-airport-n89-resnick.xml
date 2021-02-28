@@ -1,0 +1,31 @@
+<AssetPackage Name="sportflier-airport-n89-resnick" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Joseph P. Resnick Airport</Title>
+		<Manufacturer/>
+		<Creator>sportflier</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\sportflier-airport-n89-resnick\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\sportflier-airport-n89-resnick\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="airport-n89-resnick">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
