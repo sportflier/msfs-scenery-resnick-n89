@@ -8,7 +8,12 @@
     {
       "path": "scenery/CLEAR-NORTH-VEGETATION.BGL",
       "size": 903,
-      "date": 132589503466090236
+      "date": 132590389297076871
+    },
+    {
+      "path": "scenery/resnick-hangars.bgl",
+      "size": 604,
+      "date": 132590392375065169
     }
   ]
 }

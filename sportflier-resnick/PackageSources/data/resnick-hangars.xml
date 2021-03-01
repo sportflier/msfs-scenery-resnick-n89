@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: Gen_Hangar100-->
+	<SceneryObject displayName=" (copy)" lat="41.72976720196961" lon="-74.37801541963634" alt="0.00000000000000" pitch="0.000594" bank="-0.000594" heading="-147.447337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{80605B39-9A33-46F8-8306-648415D102F9}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar100-->
+	<SceneryObject lat="41.72991276891491" lon="-74.37788882936428" alt="0.00000000000000" pitch="0.000594" bank="-0.000594" heading="-147.447337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{80605B39-9A33-46F8-8306-648415D102F9}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar105-->
+	<SceneryObject lat="41.72600702843201" lon="-74.38093741869345" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-152.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{718D3E17-6506-4DC3-B6E7-B1DCE2667F5F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar105-->
+	<SceneryObject displayName=" (copy) (copy) (copy)" lat="41.73017591662368" lon="-74.37766718456695" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-152.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{718D3E17-6506-4DC3-B6E7-B1DCE2667F5F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar105-->
+	<SceneryObject displayName=" (copy) (copy)" lat="41.73053430254451" lon="-74.37735799827325" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-152.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{718D3E17-6506-4DC3-B6E7-B1DCE2667F5F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar105-->
+	<SceneryObject displayName=" (copy)" lat="41.73089069809328" lon="-74.37705052976239" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-152.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{718D3E17-6506-4DC3-B6E7-B1DCE2667F5F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar105-->
+	<SceneryObject lat="41.73124714451811" lon="-74.37674071107936" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-152.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{718D3E17-6506-4DC3-B6E7-B1DCE2667F5F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar106-->
+	<SceneryObject lat="41.72693881470668" lon="-74.38012122196415" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-152.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{5C787C75-D108-4BCE-B217-DBB273FE3A03}" scale="1.000000"/>
+	</SceneryObject>
+</FSData>
+
